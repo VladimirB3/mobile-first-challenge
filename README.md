@@ -1,2 +1,2 @@
-# mobile-first-challenge
-Challenge to show understanding of Mobile-first approach to development
+# responsive-design-challenges
+Challenges to show understanding of responsive design approach to development
